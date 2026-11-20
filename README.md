@@ -23,6 +23,8 @@ Articles: https://steadyops.best/articles/
 Platform story: https://steadyops.best/steadyops-platform-case-study/  
 LinkedIn: https://www.linkedin.com/in/yuri-osipov-0876b0254  
 
+For stores and web apps with frequent releases, see how I scope [WebOps support for checkout, bookings, and other customer flows](https://steadyops.best/webops-plus/).
+
 ## Practical DevOps/SRE resources
 
 I publish practical notes and templates about:
